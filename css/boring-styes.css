@@ -1,16 +1,9 @@
-h2.intro {
-  width: 50%;
+.intro {
   font-style: italic;
   color: skyblue;
   text-align: center;
-}
-
-p.intro {
   width: 75%;
   font-weight: bold;
   font-family: Georgia, 'Times New Roman', Times, serif;
-}
-
-img.intro {
   image-orientation: 45deg;
 }
