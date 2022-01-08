@@ -24,7 +24,7 @@ at:_
 
 ## Setup/Installation Requirements
 
-* _Visit the live site at: https://k9w.github.io/blogging-site_
+* _Visit the live site at: https://k9w.github.io/styling-with-classes_
 * _Or clone the repo and open the home page in a browser._
 
 
